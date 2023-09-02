@@ -23,7 +23,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 2. Accede al directorio del proyecto:
 
    ```bash
-   cd api-portfolio
+   cd Api-portfolio-main
 
 3. Instala las dependencias usando Composer:
    ```bash
