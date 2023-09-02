@@ -23,7 +23,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 2. Accede al directorio del proyecto:
 
    ```bash
-   cd api-portfolio
+   cd Api-portfolio-main
 
 3. Instala las dependencias usando Composer:
    ```bash
@@ -37,7 +37,11 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
    ```bash
    php artisan migrate
 
-5. Inicia el servidor de desarrollo:
+6. Ejecuta los seeders para crear datos falsos para tus pruebas(opcional):
+   ```bash
+   php artisan db:seed 
+
+7. Inicia el servidor de desarrollo:
    ```bash
    php artisan serve
 
