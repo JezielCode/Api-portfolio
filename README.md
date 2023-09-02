@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este proyecto de API Portfolio está diseñado para ayudarte a mostrar tus proyectos y habilidades de una manera efectiva en línea. La API es de código abierto y está disponible bajo la Licencia Pública General de GNU (GNU GPL v3). Siéntete libre de utilizar este código en tus propios proyectos y personalizarlo según tus necesidades.
+Este proyecto de API Portfolio está diseñado para ayudarte a crear tu portafolio de una manera efectiva en línea. La API es de código abierto y está disponible bajo la Licencia Pública General de GNU (GNU GPL v3). Siéntete libre de utilizar este código en tus propios proyectos y personalizarlo según tus necesidades.
 
 ## Requisitos
 
@@ -40,3 +40,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 5. Inicia el servidor de desarrollo:
    ```bash
    php artisan serve
+
+## Mi perfil
+
+linkedin: https://www.linkedin.com/in/cristi%C3%A1n-josue-jimenez-87626b209/
+youtube: https://www.youtube.com/channel/UCKGV92eoCMV8HyWYALLLzdw
+
