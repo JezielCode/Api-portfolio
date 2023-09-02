@@ -43,6 +43,6 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 
 ## Mi perfil
 
-linkedin: https://www.linkedin.com/in/cristi%C3%A1n-josue-jimenez-87626b209/
+linkedin: https://www.linkedin.com/in/cristi%C3%A1n-josue-jimenez-87626b209/  
 youtube: https://www.youtube.com/channel/UCKGV92eoCMV8HyWYALLLzdw
 
