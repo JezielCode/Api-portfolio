@@ -19,4 +19,24 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/api-portfolio.git
+   git clone https://github.com/JezielCode/Api-portfolio.git
+2. Accede al directorio del proyecto:
+
+   ```bash
+   cd api-portfolio
+
+3. Instala las dependencias usando Composer:
+   ```bash
+   composer install
+   
+4. Cambia el archivo de configuración env.example a .env:
+   ```bash
+   cp env.example .env
+
+5. Ejecuta las migraciones de la base de datos para crear las tablas necesarias:
+   ```bash
+   php artisan migrate
+
+5. Inicia el servidor de desarrollo:
+   ```bash
+   php artisan serve
